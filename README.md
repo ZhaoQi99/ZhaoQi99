@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 退役**ACMer**🐟....
+- 🔭  A salted 🐟....
 - 🌱 **Python**/**Vue**
 - 📫 Email: [zhaoqi99@outlook.com](mailto:zhaoqi99@outlook.com)
 
