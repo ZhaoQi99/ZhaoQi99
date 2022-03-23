@@ -36,5 +36,6 @@ jobs:
           target_branch: dist
           build_dir: dist
           commit_message: "generate github contribution snake svg"
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
