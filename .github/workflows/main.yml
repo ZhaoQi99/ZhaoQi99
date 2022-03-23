@@ -3,7 +3,7 @@ name: generate animation
 on:
   # run automatically every day
   schedule:
-    - cron: "0 0 */1 * *" 
+    - cron: "0 0 */3 * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -35,5 +35,6 @@ jobs:
         with:
           target_branch: dist
           build_dir: dist
+          commit_message: "generate github contribution snake svg"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
