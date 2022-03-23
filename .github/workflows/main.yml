@@ -28,6 +28,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      - name: Set current date as env variable
+        run: echo "DATE=$(date +'%Y-%m-%d %H:%M')" >> $GITHUB_ENV
+
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
@@ -35,7 +38,7 @@ jobs:
         with:
           target_branch: dist
           build_dir: dist
-          commit_message: "generate github contribution snake svg"
+          commit_message: "generate github contribution snake svg at ${{ env.DATA }}"
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
