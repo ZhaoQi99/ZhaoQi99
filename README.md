@@ -48,6 +48,12 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#69](https://github.com/aliyun/tea-python/pull/69) in [aliyun/tea-python](https://github.com/aliyun/tea-python)
+2. 🎉 Merged PR [#105](https://github.com/ZhaoQi99/ZhaoQi99.github.io/pull/105) in [ZhaoQi99/ZhaoQi99.github.io](https://github.com/ZhaoQi99/ZhaoQi99.github.io)
+3. 💪 Opened PR [#105](https://github.com/ZhaoQi99/ZhaoQi99.github.io/pull/105) in [ZhaoQi99/ZhaoQi99.github.io](https://github.com/ZhaoQi99/ZhaoQi99.github.io)
+4. 🗣 Commented on [#538](https://github.com/rahuldkjain/github-profile-readme-generator/issues/538) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+5. 🎉 Merged PR [#25](https://github.com/ZhaoQi99/pyencrypt-pye/pull/25) in [ZhaoQi99/pyencrypt-pye](https://github.com/ZhaoQi99/pyencrypt-pye)
+<!--END_SECTION:activity-->
 
 
 ![ZhaoQi99's github stats](https://github-readme-stats-zhaoqi99.vercel.app/api?username=zhaoqi99&show_icons=true&count_private=true&theme=radical)
