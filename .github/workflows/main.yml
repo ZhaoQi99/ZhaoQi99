@@ -1,7 +1,7 @@
-name: generate animation
+name: Update README
 
 on:
-  # run automatically every day
+  # run automatically every 3 days
   schedule:
     - cron: "0 0 */3 * *" 
   
@@ -11,14 +11,15 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - main
+      - main
     
   
 
 jobs:
-  generate:
+  animation:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    name: generate animation
 
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
@@ -42,3 +43,18 @@ jobs:
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  activity:
+    runs-on: ubuntu-latest
+    name: Update recent activity
+    if: github.event_name != 'push'
+    
+    
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'update recent activity[skip ci]'
+          MAX_LINES: 5
