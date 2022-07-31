@@ -48,11 +48,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/aliyun/tea-python/issues/71) in [aliyun/tea-python](https://github.com/aliyun/tea-python)
-2. 💪 Opened PR [#71](https://github.com/aliyun/tea-python/pull/71) in [aliyun/tea-python](https://github.com/aliyun/tea-python)
-3. 💪 Opened PR [#70](https://github.com/aliyun/tea-python/pull/70) in [aliyun/tea-python](https://github.com/aliyun/tea-python)
-4. 🗣 Commented on [#69](https://github.com/aliyun/tea-python/issues/69) in [aliyun/tea-python](https://github.com/aliyun/tea-python)
-5. 🎉 Merged PR [#25](https://github.com/ZhaoQi99/pyencrypt-pye/pull/25) in [ZhaoQi99/pyencrypt-pye](https://github.com/ZhaoQi99/pyencrypt-pye)
+1. ❗️ Opened issue [#2](https://github.com/ZhaoQi99/django-softdelete-mixin/issues/2) in [ZhaoQi99/django-softdelete-mixin](https://github.com/ZhaoQi99/django-softdelete-mixin)
+2. 🗣 Commented on [#71](https://github.com/aliyun/tea-python/issues/71) in [aliyun/tea-python](https://github.com/aliyun/tea-python)
+3. 💪 Opened PR [#71](https://github.com/aliyun/tea-python/pull/71) in [aliyun/tea-python](https://github.com/aliyun/tea-python)
+4. 💪 Opened PR [#70](https://github.com/aliyun/tea-python/pull/70) in [aliyun/tea-python](https://github.com/aliyun/tea-python)
+5. 🗣 Commented on [#69](https://github.com/aliyun/tea-python/issues/69) in [aliyun/tea-python](https://github.com/aliyun/tea-python)
 <!--END_SECTION:activity-->
 
 
