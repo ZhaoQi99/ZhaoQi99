@@ -48,11 +48,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/aeyesec/CVE-2022-34265/issues/5) in [aeyesec/CVE-2022-34265](https://github.com/aeyesec/CVE-2022-34265)
-2. ❗️ Opened issue [#5](https://github.com/aeyesec/CVE-2022-34265/issues/5) in [aeyesec/CVE-2022-34265](https://github.com/aeyesec/CVE-2022-34265)
-3. ❗️ Opened issue [#2](https://github.com/ZhaoQi99/django-softdelete-mixin/issues/2) in [ZhaoQi99/django-softdelete-mixin](https://github.com/ZhaoQi99/django-softdelete-mixin)
-4. 🗣 Commented on [#71](https://github.com/aliyun/tea-python/issues/71) in [aliyun/tea-python](https://github.com/aliyun/tea-python)
-5. 💪 Opened PR [#71](https://github.com/aliyun/tea-python/pull/71) in [aliyun/tea-python](https://github.com/aliyun/tea-python)
+1. ❗️ Opened issue [#106](https://github.com/ZhaoQi99/ZhaoQi99.github.io/issues/106) in [ZhaoQi99/ZhaoQi99.github.io](https://github.com/ZhaoQi99/ZhaoQi99.github.io)
+2. 🗣 Commented on [#5](https://github.com/aeyesec/CVE-2022-34265/issues/5) in [aeyesec/CVE-2022-34265](https://github.com/aeyesec/CVE-2022-34265)
+3. ❗️ Opened issue [#5](https://github.com/aeyesec/CVE-2022-34265/issues/5) in [aeyesec/CVE-2022-34265](https://github.com/aeyesec/CVE-2022-34265)
+4. ❗️ Opened issue [#2](https://github.com/ZhaoQi99/django-softdelete-mixin/issues/2) in [ZhaoQi99/django-softdelete-mixin](https://github.com/ZhaoQi99/django-softdelete-mixin)
+5. 🗣 Commented on [#71](https://github.com/aliyun/tea-python/issues/71) in [aliyun/tea-python](https://github.com/aliyun/tea-python)
 <!--END_SECTION:activity-->
 
 
