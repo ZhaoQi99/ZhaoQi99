@@ -48,7 +48,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1102](https://github.com/view-design/ViewUI/pull/1102) in [view-design/ViewUI](https://github.com/view-design/ViewUI)
+1. 🗣 Commented on [#1](https://github.com/hlrossato/vscode-drf/issues/1) in [hlrossato/vscode-drf](https://github.com/hlrossato/vscode-drf)
 2. ❗️ Opened issue [#1100](https://github.com/view-design/ViewUI/issues/1100) in [view-design/ViewUI](https://github.com/view-design/ViewUI)
 3. 🎉 Merged PR [#1](https://github.com/ZhaoQi99/the-way-to-go_ZH_CN/pull/1) in [ZhaoQi99/the-way-to-go_ZH_CN](https://github.com/ZhaoQi99/the-way-to-go_ZH_CN)
 4. 💪 Opened PR [#1](https://github.com/ZhaoQi99/the-way-to-go_ZH_CN/pull/1) in [ZhaoQi99/the-way-to-go_ZH_CN](https://github.com/ZhaoQi99/the-way-to-go_ZH_CN)
