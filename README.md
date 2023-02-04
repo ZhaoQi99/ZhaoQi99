@@ -48,11 +48,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/hlrossato/vscode-drf/issues/1) in [hlrossato/vscode-drf](https://github.com/hlrossato/vscode-drf)
-2. ❗️ Opened issue [#1100](https://github.com/view-design/ViewUI/issues/1100) in [view-design/ViewUI](https://github.com/view-design/ViewUI)
-3. 🎉 Merged PR [#1](https://github.com/ZhaoQi99/the-way-to-go_ZH_CN/pull/1) in [ZhaoQi99/the-way-to-go_ZH_CN](https://github.com/ZhaoQi99/the-way-to-go_ZH_CN)
-4. 💪 Opened PR [#1](https://github.com/ZhaoQi99/the-way-to-go_ZH_CN/pull/1) in [ZhaoQi99/the-way-to-go_ZH_CN](https://github.com/ZhaoQi99/the-way-to-go_ZH_CN)
-5. ❗️ Opened issue [#106](https://github.com/ZhaoQi99/ZhaoQi99.github.io/issues/106) in [ZhaoQi99/ZhaoQi99.github.io](https://github.com/ZhaoQi99/ZhaoQi99.github.io)
+1. ❗️ Opened issue [#110](https://github.com/ZhaoQi99/ZhaoQi99.github.io/issues/110) in [ZhaoQi99/ZhaoQi99.github.io](https://github.com/ZhaoQi99/ZhaoQi99.github.io)
+2. ❗️ Opened issue [#109](https://github.com/ZhaoQi99/ZhaoQi99.github.io/issues/109) in [ZhaoQi99/ZhaoQi99.github.io](https://github.com/ZhaoQi99/ZhaoQi99.github.io)
+3. ❗️ Opened issue [#108](https://github.com/ZhaoQi99/ZhaoQi99.github.io/issues/108) in [ZhaoQi99/ZhaoQi99.github.io](https://github.com/ZhaoQi99/ZhaoQi99.github.io)
+4. ❗️ Opened issue [#107](https://github.com/ZhaoQi99/ZhaoQi99.github.io/issues/107) in [ZhaoQi99/ZhaoQi99.github.io](https://github.com/ZhaoQi99/ZhaoQi99.github.io)
+5. 🗣 Commented on [#1](https://github.com/hlrossato/vscode-drf/issues/1) in [hlrossato/vscode-drf](https://github.com/hlrossato/vscode-drf)
 <!--END_SECTION:activity-->
 
 
