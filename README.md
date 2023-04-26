@@ -51,11 +51,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/ZhaoQi99/pyencrypt-pye/issues/18) in [ZhaoQi99/pyencrypt-pye](https://github.com/ZhaoQi99/pyencrypt-pye)
-2. ❗️ Closed issue [#1](https://github.com/snnucs/Introduction/issues/1) in [snnucs/Introduction](https://github.com/snnucs/Introduction)
-3. 💪 Opened PR [#325](https://github.com/aliyun/tea-util/pull/325) in [aliyun/tea-util](https://github.com/aliyun/tea-util)
-4. ❗️ Opened issue [#110](https://github.com/ZhaoQi99/ZhaoQi99.github.io/issues/110) in [ZhaoQi99/ZhaoQi99.github.io](https://github.com/ZhaoQi99/ZhaoQi99.github.io)
-5. ❗️ Opened issue [#109](https://github.com/ZhaoQi99/ZhaoQi99.github.io/issues/109) in [ZhaoQi99/ZhaoQi99.github.io](https://github.com/ZhaoQi99/ZhaoQi99.github.io)
+1. 🎉 Merged PR [#3](https://github.com/ZhaoQi99/django-softdelete-mixin/pull/3) in [ZhaoQi99/django-softdelete-mixin](https://github.com/ZhaoQi99/django-softdelete-mixin)
+2. 💪 Opened PR [#3](https://github.com/ZhaoQi99/django-softdelete-mixin/pull/3) in [ZhaoQi99/django-softdelete-mixin](https://github.com/ZhaoQi99/django-softdelete-mixin)
+3. 🗣 Commented on [#18](https://github.com/ZhaoQi99/pyencrypt-pye/issues/18) in [ZhaoQi99/pyencrypt-pye](https://github.com/ZhaoQi99/pyencrypt-pye)
+4. ❗️ Closed issue [#1](https://github.com/snnucs/Introduction/issues/1) in [snnucs/Introduction](https://github.com/snnucs/Introduction)
+5. 💪 Opened PR [#325](https://github.com/aliyun/tea-util/pull/325) in [aliyun/tea-util](https://github.com/aliyun/tea-util)
 <!--END_SECTION:activity-->
 
 
