@@ -62,4 +62,4 @@
 ![ZhaoQi99's github stats](https://github-readme-stats-zhaoqi99.vercel.app/api?username=zhaoqi99&show_icons=true&count_private=true&theme=tokyonight&hide_title=true)
 ![Top Langs](https://github-readme-stats-zhaoqi99.vercel.app/api/top-langs/?username=zhaoqi99&theme=tokyonight&hide=html)
 <!-- ![ZhaoQi99's github activity graph](https://zhaoqi99-readme-activity-graph.herokuapp.com/graph?username=ZhaoQi99&theme=redical) -->
-![ZhaoQi99's github contribution grid snake](https://raw.githubusercontent.com/ZhaoQi99/ZhaoQi99/dist/github-contribution-grid-snake.svg)
+![ZhaoQi99's github contribution grid snake](https://raw.githubusercontent.com/ZhaoQi99/ZhaoQi99/dist/github-contribution-grid-snake-blue.svg)
