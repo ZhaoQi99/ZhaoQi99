@@ -51,9 +51,9 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ZhaoQi99/django-softdelete-mixin/pull/3) in [ZhaoQi99/django-softdelete-mixin](https://github.com/ZhaoQi99/django-softdelete-mixin)
-2. 💪 Opened PR [#3](https://github.com/ZhaoQi99/django-softdelete-mixin/pull/3) in [ZhaoQi99/django-softdelete-mixin](https://github.com/ZhaoQi99/django-softdelete-mixin)
-3. 🗣 Commented on [#18](https://github.com/ZhaoQi99/pyencrypt-pye/issues/18) in [ZhaoQi99/pyencrypt-pye](https://github.com/ZhaoQi99/pyencrypt-pye)
+1. ❗ Opened issue [#111](https://github.com/ZhaoQi99/ZhaoQi99.github.io/issues/111) in [ZhaoQi99/ZhaoQi99.github.io](https://github.com/ZhaoQi99/ZhaoQi99.github.io)
+2. 🎉 Merged PR [#3](https://github.com/ZhaoQi99/django-softdelete-mixin/pull/3) in [ZhaoQi99/django-softdelete-mixin](https://github.com/ZhaoQi99/django-softdelete-mixin)
+3. 💪 Opened PR [#3](https://github.com/ZhaoQi99/django-softdelete-mixin/pull/3) in [ZhaoQi99/django-softdelete-mixin](https://github.com/ZhaoQi99/django-softdelete-mixin)
 4. 🔒 Closed issue [#1](https://github.com/snnucs/Introduction/issues/1) in [snnucs/Introduction](https://github.com/snnucs/Introduction)
 5. 🚀 Published release [v0.1.0](https://github.com/v0.1.0) in [ZhaoQi99/drf-access-key](https://github.com/ZhaoQi99/drf-access-key)
 <!--END_SECTION:activity-->
