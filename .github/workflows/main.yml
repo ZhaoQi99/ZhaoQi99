@@ -43,7 +43,7 @@ jobs:
       contents: write
     steps:
       - name: Generate Github metrics (left)
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           output_action: none
@@ -83,7 +83,7 @@ jobs:
           repositories_forks: yes
 
       - name: Generate Github metrics (right)
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           output_action: none
