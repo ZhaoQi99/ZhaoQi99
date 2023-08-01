@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="757" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="800" class="">
     <defs>
         <style/>
     </defs>
@@ -148,7 +148,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 6.17mb of code in 1215 edited files across 303 commits</small>
+                <small>estimation from 6.17mb of code in 1218 edited files across 306 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -173,6 +173,7 @@
                                 C++
                             </div>
                             <small>
+                                <div>151k lines</div>
                                 <div>73.21%</div>
                             </small>
                         </div>
@@ -184,6 +185,7 @@
                                 Vue
                             </div>
                             <small>
+                                <div>5.09k lines</div>
                                 <div>4.3%</div>
                             </small>
                         </div>
@@ -195,6 +197,7 @@
                                 Less
                             </div>
                             <small>
+                                <div>224 lines</div>
                                 <div>0.16%</div>
                             </small>
                         </div>
@@ -206,6 +209,7 @@
                                 Makefile
                             </div>
                             <small>
+                                <div>46 lines</div>
                                 <div>0.04%</div>
                             </small>
                         </div>
@@ -219,6 +223,7 @@
                                 Python
                             </div>
                             <small>
+                                <div>10.2k lines</div>
                                 <div>19.74%</div>
                             </small>
                         </div>
@@ -230,6 +235,7 @@
                                 JavaScript
                             </div>
                             <small>
+                                <div>2.28k lines</div>
                                 <div>2.43%</div>
                             </small>
                         </div>
@@ -241,6 +247,7 @@
                                 Dockerfile
                             </div>
                             <small>
+                                <div>48 lines</div>
                                 <div>0.08%</div>
                             </small>
                         </div>
@@ -252,9 +259,22 @@
                                 Shell
                             </div>
                             <small>
+                                <div>47 lines</div>
                                 <div>0.03%</div>
                             </small>
                         </div>
+                    </section>
+                </div>
+            </section>
+            <section class="column">
+                <h3 class="field">Recently used languages</h3>
+                <small>No recent push activity found
+                
+                  over last 9 days</small>
+                <div class="row fill-width">
+                    <section>
+                    </section>
+                    <section>
                     </section>
                 </div>
             </section>
@@ -362,7 +382,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Aug 2023, 01:57:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 Aug 2023, 02:35:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
