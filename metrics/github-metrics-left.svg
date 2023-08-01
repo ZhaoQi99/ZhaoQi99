@@ -173,7 +173,6 @@
                                 C++
                             </div>
                             <small>
-                                <div>151k lines</div>
                                 <div>73.21%</div>
                             </small>
                         </div>
@@ -185,7 +184,6 @@
                                 Vue
                             </div>
                             <small>
-                                <div>5.09k lines</div>
                                 <div>4.3%</div>
                             </small>
                         </div>
@@ -197,7 +195,6 @@
                                 Less
                             </div>
                             <small>
-                                <div>224 lines</div>
                                 <div>0.16%</div>
                             </small>
                         </div>
@@ -209,7 +206,6 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>46 lines</div>
                                 <div>0.04%</div>
                             </small>
                         </div>
@@ -223,7 +219,6 @@
                                 Python
                             </div>
                             <small>
-                                <div>10.2k lines</div>
                                 <div>19.74%</div>
                             </small>
                         </div>
@@ -235,7 +230,6 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>2.28k lines</div>
                                 <div>2.43%</div>
                             </small>
                         </div>
@@ -247,7 +241,6 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>48 lines</div>
                                 <div>0.08%</div>
                             </small>
                         </div>
@@ -259,7 +252,6 @@
                                 Shell
                             </div>
                             <small>
-                                <div>47 lines</div>
                                 <div>0.03%</div>
                             </small>
                         </div>
@@ -370,7 +362,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Aug 2023, 01:18:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 Aug 2023, 01:24:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
