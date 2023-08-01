@@ -133,3 +133,7 @@ jobs:
           build_dir: dist
           commit_message: "Generate README dist file at ${{ env.DATE }}"
           keep_history: true
+
+      - uses: geekyeggo/delete-artifact@v2
+        with:
+          name: my-artifact
