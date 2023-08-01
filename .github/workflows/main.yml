@@ -45,7 +45,7 @@ jobs:
       - name: Generate Github metrics (left)
         uses: lowlighter/metrics@master
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           output_action: none
           output_condition: data-changed
           filename: github-metrics-left.svg
@@ -85,7 +85,7 @@ jobs:
       - name: Generate Github metrics (right)
         uses: lowlighter/metrics@master
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           output_action: none
           output_condition: data-changed
           filename: github-metrics-right.svg
