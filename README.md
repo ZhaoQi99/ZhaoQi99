@@ -1,3 +1,13 @@
+<div align="center">
+  <a href="#">
+    <img width="400" align="top" src="https://raw.githubusercontent.com/ZhaoQi99/ZhaoQi99/dist/metrics/github-metrics-left.svg" />
+  </a>
+   
+  <a href="#">
+    <img width="400" align="top" src="https://raw.githubusercontent.com/ZhaoQi99/ZhaoQi99/dist/metrics/github-metrics-right.svg" />
+  </a>
+</div>
+
 ### Hi there 👋
 
 - 🔭  A salted 🐟....
@@ -49,17 +59,22 @@
   </a>
 </p>
 
-### Recent Activity
+
+<!--  ### Recent Activity -->
 <!--START_SECTION:activity-->
+<!-- 
 1. ❗ Opened issue [#111](https://github.com/ZhaoQi99/ZhaoQi99.github.io/issues/111) in [ZhaoQi99/ZhaoQi99.github.io](https://github.com/ZhaoQi99/ZhaoQi99.github.io)
 2. 🎉 Merged PR [#3](https://github.com/ZhaoQi99/django-softdelete-mixin/pull/3) in [ZhaoQi99/django-softdelete-mixin](https://github.com/ZhaoQi99/django-softdelete-mixin)
 3. 💪 Opened PR [#3](https://github.com/ZhaoQi99/django-softdelete-mixin/pull/3) in [ZhaoQi99/django-softdelete-mixin](https://github.com/ZhaoQi99/django-softdelete-mixin)
 4. 🔒 Closed issue [#1](https://github.com/snnucs/Introduction/issues/1) in [snnucs/Introduction](https://github.com/snnucs/Introduction)
 5. 🚀 Published release [v0.1.0](https://github.com/v0.1.0) in [ZhaoQi99/drf-access-key](https://github.com/ZhaoQi99/drf-access-key)
+ -->   
 <!--END_SECTION:activity-->
 
-
+<!-- 
 ![ZhaoQi99's github stats](https://github-readme-stats-zhaoqi99.vercel.app/api?username=zhaoqi99&show_icons=true&count_private=true&theme=tokyonight&hide_title=true)
 ![Top Langs](https://github-readme-stats-zhaoqi99.vercel.app/api/top-langs/?username=zhaoqi99&theme=tokyonight&hide=html)
-<!-- ![ZhaoQi99's github activity graph](https://zhaoqi99-readme-activity-graph.herokuapp.com/graph?username=ZhaoQi99&theme=redical) -->
+![ZhaoQi99's github activity graph](https://zhaoqi99-readme-activity-graph.herokuapp.com/graph?username=ZhaoQi99&theme=redical)
+-->
+
 ![ZhaoQi99's github contribution grid snake](https://raw.githubusercontent.com/ZhaoQi99/ZhaoQi99/dist/github-contribution-grid-snake-blue.svg)
