@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="757" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="830" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.keyword{color:#b44418}.token.operator{color:#106cbc}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,18 +31,18 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -88,13 +88,13 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            222 Issues opened
+                            224 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            166 issue comments
+                            169 issue comments
                         </div>
                     </section>
                     <section>
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 438 repositories
+                            Starred 439 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -283,12 +283,69 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#1 NAS群友们，集合！</span>
+                                        <span class="issue">#26 加密multiprocessing</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by xiekeyi98 in <span class="repo">NASDance/NAS</span></div>
-                                    <div class="comment">111</div>
+                                    <div>opened by lovechang1986 in <span class="repo">ZhaoQi99/pyencrypt-pye</span></div>
+                                    <div class="comment">
+                                        <i>非常感谢大佬，耽误您的时间了。
+我按照您的代码测试了确实可以，我再检查一下我的代码，看没加密前能跑通不，谢谢。</i>
+                                        No problem
+                                        <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                            <path fill="#FFCC4D" d="M36 18c0 9.941-8.059 18-18 18-9.94 0-18-8.059-18-18C0 8.06 8.06 0 18 0c9.941 0 18 8.06 18 18"/>
+                                            <path fill="#66471B" d="M6.001 20c-.304 0-.604-.138-.801-.4-.332-.441-.242-1.068.2-1.399.143-.107 2.951-2.183 6.856-2.933C9.781 14.027 7.034 14 6.999 14c-.552-.002-.999-.45-.998-1.002 0-.551.447-.998.999-.998.221 0 5.452.038 8.707 3.293.286.286.372.716.217 1.09-.155.374-.52.617-.924.617-4.613 0-8.363 2.772-8.4 2.8-.18.135-.391.2-.599.2zm23.998-.001c-.208 0-.418-.064-.598-.198C29.363 19.772 25.59 17 21 17c-.404 0-.77-.243-.924-.617-.155-.374-.069-.804.217-1.09C23.549 12.038 28.779 12 29 12c.552 0 .998.447.999.998.001.552-.446 1-.997 1.002-.036 0-2.783.027-5.258 1.268 3.905.75 6.713 2.825 6.855 2.933.441.331.531.956.201 1.398-.196.261-.496.4-.801.4zM7 21.263c0 3.964 4.596 9 11 9s11-5 11-9c0 0-10.333 2.756-22 0z"/>
+                                            <path fill="#E8596E" d="M18.545 23.604l-1.091-.005c-3.216-.074-5.454-.596-5.454-.596v6.961c0 3 2 6 6 6s6-3 6-6v-6.92c-1.922.395-3.787.543-5.455.56z"/>
+                                            <path fill="#DD2F45" d="M18 31.844c.301 0 .545-.244.545-.545v-7.694l-1.091-.005v7.699c.001.301.245.545.546.545z"/>
+                                        </svg>
+                                        .
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#26 加密multiprocessing</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by lovechang1986 in <span class="repo">ZhaoQi99/pyencrypt-pye</span></div>
+                                    <div class="comment">
+                                        <i>大佬，写了一个多进程py代码，加密后执行一直停留在Process ForkPoolWorker这里，后面的代码都不继续执行了。 有没有解决的办法呢？</i>
+                                        Hello,我用下面的代码测试了一下,看着没有问题...
+Check一下没加密前能正常执行吗?
+如果方便的话,能否提供一个报错的example
+                                        <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                            <ellipse fill="#F5F8FA" cx="8.828" cy="18" rx="7.953" ry="13.281"/>
+                                            <path fill="#E1E8ED" d="M8.828 32.031C3.948 32.031.125 25.868.125 18S3.948 3.969 8.828 3.969 17.531 10.132 17.531 18s-3.823 14.031-8.703 14.031zm0-26.562C4.856 5.469 1.625 11.09 1.625 18s3.231 12.531 7.203 12.531S16.031 24.91 16.031 18 12.8 5.469 8.828 5.469z"/>
+                                            <circle fill="#8899A6" cx="6.594" cy="18" r="4.96"/>
+                                            <circle fill="#292F33" cx="6.594" cy="18" r="3.565"/>
+                                            <circle fill="#F5F8FA" cx="7.911" cy="15.443" r="1.426"/>
+                                            <ellipse fill="#F5F8FA" cx="27.234" cy="18" rx="7.953" ry="13.281"/>
+                                            <path fill="#E1E8ED" d="M27.234 32.031c-4.88 0-8.703-6.163-8.703-14.031s3.823-14.031 8.703-14.031S35.938 10.132 35.938 18s-3.824 14.031-8.704 14.031zm0-26.562c-3.972 0-7.203 5.622-7.203 12.531 0 6.91 3.231 12.531 7.203 12.531S34.438 24.91 34.438 18 31.206 5.469 27.234 5.469z"/>
+                                            <circle fill="#8899A6" cx="25" cy="18" r="4.96"/>
+                                            <circle fill="#292F33" cx="25" cy="18" r="3.565"/>
+                                            <circle fill="#F5F8FA" cx="26.317" cy="15.443" r="1.426"/>
+                                        </svg>
+                                        a.py
+                                        <code class="language-multiline language-python" xml:space="preserve"><span class="token keyword">import</span> multiprocessing
+<span class="token keyword">import</span> time
+<span class="token trimmed">(23 more lines were trimmed)</span></code>
+                                        test.py
+                                        <code class="language-multiline language-python" xml:space="preserve"><span class="token keyword">import</span> loader
+<span class="token keyword">from</span> a <span class="token keyword">import</span> <span class="token operator">*</span>
+<span class="token trimmed">(2 more lines were trimmed)</span></code>
+                                        Output
+                                        <code class="language-multiline language-shell" xml:space="preserve">~$ python test.py
+Worker ForkPoolWorker-1 开始执行
+<span class="token trimmed">(5 more lines were trimmed)</span></code>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -300,7 +357,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">dgraph-io/badger</span>
+                                        <span class="repo">readysettech/readyset</span>
                                     </div>
                                 </div>
                             </section>
@@ -309,18 +366,30 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ZhaoQi99/CTF-Writeups</span>
+                                        Commented on
+                                        <span class="issue">#26 加密multiprocessing</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5c7b458</div>
-                                        <div class="message">Update LEAST_COMMON_GENOMINATOR.md</div>
+                                    <div>opened by lovechang1986 in <span class="repo">ZhaoQi99/pyencrypt-pye</span></div>
+                                    <div class="comment">
+                                        <i>大佬，写了一个多进程py代码，加密后执行一直停留在Process ForkPoolWorker这里，后面的代码都不继续执行了。 有没有解决的办法呢？</i>
+                                        我有空试试
+                                        <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                            <ellipse fill="#F5F8FA" cx="8.828" cy="18" rx="7.953" ry="13.281"/>
+                                            <path fill="#E1E8ED" d="M8.828 32.031C3.948 32.031.125 25.868.125 18S3.948 3.969 8.828 3.969 17.531 10.132 17.531 18s-3.823 14.031-8.703 14.031zm0-26.562C4.856 5.469 1.625 11.09 1.625 18s3.231 12.531 7.203 12.531S16.031 24.91 16.031 18 12.8 5.469 8.828 5.469z"/>
+                                            <circle fill="#8899A6" cx="6.594" cy="18" r="4.96"/>
+                                            <circle fill="#292F33" cx="6.594" cy="18" r="3.565"/>
+                                            <circle fill="#F5F8FA" cx="7.911" cy="15.443" r="1.426"/>
+                                            <ellipse fill="#F5F8FA" cx="27.234" cy="18" rx="7.953" ry="13.281"/>
+                                            <path fill="#E1E8ED" d="M27.234 32.031c-4.88 0-8.703-6.163-8.703-14.031s3.823-14.031 8.703-14.031S35.938 10.132 35.938 18s-3.824 14.031-8.704 14.031zm0-26.562c-3.972 0-7.203 5.622-7.203 12.531 0 6.91 3.231 12.531 7.203 12.531S34.438 24.91 34.438 18 31.206 5.469 27.234 5.469z"/>
+                                            <circle fill="#8899A6" cx="25" cy="18" r="4.96"/>
+                                            <circle fill="#292F33" cx="25" cy="18" r="3.565"/>
+                                            <circle fill="#F5F8FA" cx="26.317" cy="15.443" r="1.426"/>
+                                        </svg>
                                     </div>
                                 </div>
                             </section>
@@ -329,39 +398,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ZhaoQi99/CTF-Writeups</span>
+                                        Opened
+                                        <span class="issue">#28 Python3.8下安装pyminifier失败</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#05737e5</div>
-                                        <div class="message">feat: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#BB1A34" d="M21.828 20.559C19.707 21.266 19 17.731 19 17.731s.965-.968.235-1.829c1.138-1.137.473-1.707.473-1.707-1.954-1.953-5.119-1.953-7.071 0-.246.246-.414.467-.553.678-.061.086-.115.174-.17.262l-.014.027c-.285.475-.491.982-.605 1.509-.156.319-.379.659-.779 1.06-1.414 1.414-4.949-.707-7.778 2.121-.029.029-.045.069-.069.104-.094.084-.193.158-.284.25-3.319 3.319-3.003 9.018.708 12.728 3.524 3.525 8.84 3.979 12.209 1.17.058-.031.117-.061.165-.109.071-.072.126-.14.193-.21.053-.049.109-.093.161-.143 1.693-1.694 2.342-3.73 2.086-5.811-.068-.99-.165-1.766.39-2.321.707-.707 2.828 0 4.242-1.414 2.117-2.122.631-3.983-.711-3.537z"/><path fill="#292F33" d="M14.987 18.91L30.326 3.572l2.121 2.122-15.339 15.339z"/><path fill="#F5F8FA" d="M10.001 29.134c1.782 1.277 1.959 3.473 1.859 4.751-.042.528.519.898.979.637 2.563-1.456 4.602-3.789 4.038-7.853-.111-.735.111-2.117 2.272-2.406 2.161-.29 2.941-1.099 3.208-1.485.153-.221.29-.832-.312-.854-.601-.022-2.094.446-3.431-1.136-1.337-1.582-1.559-2.228-1.604-2.473-.045-.245-1.409-3.694-2.525-1.864-.927 1.521-1.958 4.509-5.287 5.287-1.355.316-3.069 1.005-3.564 1.96-.832 1.604.46 2.725 1.574 3.483 1.115.757 2.793 1.953 2.793 1.953z"/><path fill="#292F33" d="M13.072 19.412l1.414-1.415 3.536 3.535-1.414 1.414zm-4.475 4.474l1.415-1.414 3.535 3.535-1.414 1.414z"/><path fill="#CCD6DD" d="M7.396 27.189L29.198 5.427l.53.531L7.927 27.72zm.869.868L30.067 6.296l.53.531L8.796 28.59z"/><path fill="#292F33" d="M9.815 28.325c.389.389.389 1.025 0 1.414s-1.025.389-1.414 0l-2.122-2.121c-.389-.389-.389-1.025 0-1.414h.001c.389-.389 1.025-.389 1.414 0l2.121 2.121z"/><circle fill="#292F33" cx="13.028" cy="29.556" r="1"/><path fill="#292F33" d="M14.445 31.881c0 .379-.307.686-.686.686-.379 0-.686-.307-.686-.686 0-.379.307-.686.686-.686.379 0 .686.307.686.686z"/><path fill="#BB1A34" d="M35.088 4.54c.415.415.415 1.095-.001 1.51l-4.362 3.02c-.416.415-1.095.415-1.51 0L26.95 6.804c-.415-.415-.415-1.095.001-1.51l3.02-4.361c.416-.415 1.095-.415 1.51 0l3.607 3.607z"/><circle fill="#66757F" cx="32.123" cy="9.402" r=".625"/><circle fill="#66757F" cx="33.381" cy="8.557" r=".625"/><circle fill="#66757F" cx="34.64" cy="7.712" r=".625"/><circle fill="#66757F" cx="26.712" cy="3.811" r=".625"/><circle fill="#66757F" cx="27.555" cy="2.571" r=".625"/><circle fill="#66757F" cx="28.398" cy="1.332" r=".625"/></svg> add GoogleCTF2023</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ZhaoQi99/CTF-Writeups</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3d22abf</div>
-                                        <div class="message">feat: <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#BB1A34" d="M21.828 20.559C19.707 21.266 19 17.731 19 17.731s.965-.968.235-1.829c1.138-1.137.473-1.707.473-1.707-1.954-1.953-5.119-1.953-7.071 0-.246.246-.414.467-.553.678-.061.086-.115.174-.17.262l-.014.027c-.285.475-.491.982-.605 1.509-.156.319-.379.659-.779 1.06-1.414 1.414-4.949-.707-7.778 2.121-.029.029-.045.069-.069.104-.094.084-.193.158-.284.25-3.319 3.319-3.003 9.018.708 12.728 3.524 3.525 8.84 3.979 12.209 1.17.058-.031.117-.061.165-.109.071-.072.126-.14.193-.21.053-.049.109-.093.161-.143 1.693-1.694 2.342-3.73 2.086-5.811-.068-.99-.165-1.766.39-2.321.707-.707 2.828 0 4.242-1.414 2.117-2.122.631-3.983-.711-3.537z"/><path fill="#292F33" d="M14.987 18.91L30.326 3.572l2.121 2.122-15.339 15.339z"/><path fill="#F5F8FA" d="M10.001 29.134c1.782 1.277 1.959 3.473 1.859 4.751-.042.528.519.898.979.637 2.563-1.456 4.602-3.789 4.038-7.853-.111-.735.111-2.117 2.272-2.406 2.161-.29 2.941-1.099 3.208-1.485.153-.221.29-.832-.312-.854-.601-.022-2.094.446-3.431-1.136-1.337-1.582-1.559-2.228-1.604-2.473-.045-.245-1.409-3.694-2.525-1.864-.927 1.521-1.958 4.509-5.287 5.287-1.355.316-3.069 1.005-3.564 1.96-.832 1.604.46 2.725 1.574 3.483 1.115.757 2.793 1.953 2.793 1.953z"/><path fill="#292F33" d="M13.072 19.412l1.414-1.415 3.536 3.535-1.414 1.414zm-4.475 4.474l1.415-1.414 3.535 3.535-1.414 1.414z"/><path fill="#CCD6DD" d="M7.396 27.189L29.198 5.427l.53.531L7.927 27.72zm.869.868L30.067 6.296l.53.531L8.796 28.59z"/><path fill="#292F33" d="M9.815 28.325c.389.389.389 1.025 0 1.414s-1.025.389-1.414 0l-2.122-2.121c-.389-.389-.389-1.025 0-1.414h.001c.389-.389 1.025-.389 1.414 0l2.121 2.121z"/><circle fill="#292F33" cx="13.028" cy="29.556" r="1"/><path fill="#292F33" d="M14.445 31.881c0 .379-.307.686-.686.686-.379 0-.686-.307-.686-.686 0-.379.307-.686.686-.686.379 0 .686.307.686.686z"/><path fill="#BB1A34" d="M35.088 4.54c.415.415.415 1.095-.001 1.51l-4.362 3.02c-.416.415-1.095.415-1.51 0L26.95 6.804c-.415-.415-.415-1.095.001-1.51l3.02-4.361c.416-.415 1.095-.415 1.51 0l3.607 3.607z"/><circle fill="#66757F" cx="32.123" cy="9.402" r=".625"/><circle fill="#66757F" cx="33.381" cy="8.557" r=".625"/><circle fill="#66757F" cx="34.64" cy="7.712" r=".625"/><circle fill="#66757F" cx="26.712" cy="3.811" r=".625"/><circle fill="#66757F" cx="27.555" cy="2.571" r=".625"/><circle fill="#66757F" cx="28.398" cy="1.332" r=".625"/></svg> add GoogleCTF2023</div>
-                                    </div>
+                                    <div>opened  in <span class="repo">ZhaoQi99/pyencrypt-pye</span></div>
                                 </div>
                             </section>
                         </div>
@@ -370,7 +416,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Aug 2023, 09:13:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 5 Aug 2023, 19:46:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
