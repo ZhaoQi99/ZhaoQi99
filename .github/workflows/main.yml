@@ -107,7 +107,7 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_types: commit
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 3
 
       - run: |
           mkdir -p ${{ github.workspace }}/dist/metrics
