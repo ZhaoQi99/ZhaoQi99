@@ -31,7 +31,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-blue.svg?color_snake=orange&color_dots=#ebedf0,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: my-artifact
           path: ${{ github.workspace }}/dist/
@@ -113,7 +113,7 @@ jobs:
           mkdir -p ${{ github.workspace }}/dist/metrics
           cp /metrics_renders/*.svg ${{ github.workspace }}/dist/metrics
 
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: my-artifact
           path: ${{ github.workspace }}/dist/
