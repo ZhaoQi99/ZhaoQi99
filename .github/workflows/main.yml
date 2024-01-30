@@ -133,7 +133,7 @@ jobs:
         run: echo "DATE=$(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M')" >> $GITHUB_ENV
 
       - name: push dist file to the output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: dist
           build_dir: dist
