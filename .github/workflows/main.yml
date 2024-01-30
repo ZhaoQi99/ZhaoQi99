@@ -33,7 +33,7 @@ jobs:
 
       - uses: actions/upload-artifact@v4
         with:
-          name: my-artifact
+          name: my-artifact-animation
           path: ${{ github.workspace }}/dist/
 
   github-metrics:
@@ -115,7 +115,7 @@ jobs:
 
       - uses: actions/upload-artifact@v4
         with:
-          name: my-artifact
+          name: my-artifact-metrics
           path: ${{ github.workspace }}/dist/
 
   push-dist:
@@ -123,9 +123,10 @@ jobs:
     needs: [animation, github-metrics]
     name: Push dist
     steps:
-      - uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v4
         with:
-          name: my-artifact
+          pattern: my-artifact-*
+          merge-multiple: true
           path: ${{ github.workspace }}/dist/
 
       - name: Set current date as env variable
@@ -139,6 +140,7 @@ jobs:
           commit_message: "Generate README dist file at ${{ env.DATE }}"
           keep_history: true
 
-      - uses: geekyeggo/delete-artifact@v2
+      - uses: geekyeggo/delete-artifact@v4
         with:
-          name: my-artifact
+          name: my-artifact-*
+          
