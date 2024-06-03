@@ -8,6 +8,15 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://gitroll.io/profile/ujQ8iHSM5ZJUFkeF9JG1YdM8xm873" target="_blank">
+    <img width="400" src="https://gitroll.io/api/badges/profiles/v1/ujQ8iHSM5ZJUFkeF9JG1YdM8xm873" alt="GitRoll Profile Badge"/>
+  </a>
+
+  <a href="#">
+    <img width="400" align="github-contribution-grid-snake-blue.svg" src="https://raw.githubusercontent.com/ZhaoQi99/ZhaoQi99/dist/github-contribution-grid-snake-blue.svg" />
+  </a>
+</div>
 
 ### Hi there 👋
 - 🔭  A salted 🐟.... ([![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZhaoQi99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com))
@@ -77,4 +86,6 @@
 ![ZhaoQi99's github activity graph](https://zhaoqi99-readme-activity-graph.herokuapp.com/graph?username=ZhaoQi99&theme=redical)
 -->
 
+<!-- 
 ![ZhaoQi99's github contribution grid snake](https://raw.githubusercontent.com/ZhaoQi99/ZhaoQi99/dist/github-contribution-grid-snake-blue.svg)
+ -->   
