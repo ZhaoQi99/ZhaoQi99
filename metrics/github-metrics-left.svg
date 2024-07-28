@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1095" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="746" class="">
     <defs>
         <style/>
     </defs>
@@ -31,17 +31,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1253 Commits
+                            1255 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -279,6 +279,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">LC044/WeChatMsg</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                         <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
@@ -354,138 +367,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 90 commits in
-                                        <span class="repo">ZhaoQi99/uptime-kuma</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d83c2b9</div>
-                                        <div class="message">Revert unintentional changes to EditMonitor.vue
-
-Reverts unintentional changes committed in: d92003e1726f0dfd3f162973d2f29064a6dbf709</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4699a1c</div>
-                                        <div class="message">ES Lint Compliant
-
-Also changed line endings from 'LF' to 'CRLF'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba84f01</div>
-                                        <div class="message">Delete .EditMonitor.vue.swp
-
-Co-Authored-By: Frank Elsinga &lt;frank.elsinga@tum.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ba0f68</div>
-                                        <div class="message">Remove supurfluous log.debug
-
-Co-Authored-By: Frank Elsinga &lt;frank.elsinga@tum.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97a9094</div>
-                                        <div class="message">ES Lint Compliant</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e944492</div>
-                                        <div class="message">Corrected down function
-
-https://github.com/louislam/uptime-kuma/pull/4717/files/b4bd003626986be1faab7142710f9443273d89fc#r1585590243</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7459654</div>
-                                        <div class="message">ES Lint Compliant</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba47aca</div>
-                                        <div class="message">Apply suggestions from code review
-
-Co-authored-by: Frank Elsinga &lt;frank@elsinga.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4bd003</div>
-                                        <div class="message">Merge branch 'master' into snmp-monitor</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#704ffd3</div>
-                                        <div class="message">Finalized SNMP monitor</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9848ce4</div>
-                                        <div class="message">Minor frontend styling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4593afb</div>
-                                        <div class="message">Frontend input validation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d28fcf</div>
-                                        <div class="message">Update bean model backend
-
-Updates appropriate values async when editing the SNMP monitor</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c8024c</div>
-                                        <div class="message">Update db migration: down function
-
-knex requires down function</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#138075a</div>
-                                        <div class="message">Update db migration: allow nulls
-
-DB must allow nulls otherwise this will break other monitors.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99dc4cf</div>
-                                        <div class="message">Wrong variable used
-
-Thanks for pointing it out @CommanderStorm!</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a882be</div>
-                                        <div class="message">Further SNMP monitor development
-
-Further testing of SNMP feat, however I'm running into the issue `Error in SNMP check: RequestTimedOutError: Request timed out` when the check function is called. I am unsure as to why since my local SNMP script works great with very similar code.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff5890a</div>
-                                        <div class="message">Updated a comment</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3cdd69</div>
-                                        <div class="message">Use net-snmp instead of snmp-native
-
-net-snmp over snmp-native is:
--more robust
--more popular
--better documented
--supports v3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d92003e</div>
-                                        <div class="message">SNMP Initial Commits
-
-This commit introduces a new SNMP monitor feature to the application, allowing users to monitor devices using SNMP (Simple Network Management Protocol).</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2024, 09:12:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 28 Jul 2024, 09:17:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
