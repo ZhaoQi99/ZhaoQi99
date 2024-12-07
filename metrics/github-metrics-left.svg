@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="873" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="950" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}code{display:inline-block}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.number{color:#2777aa}.token.operator{color:#106cbc}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -34,16 +34,16 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1318 Commits
+                            1325 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            209 issue comments
+                            215 issue comments
                         </div>
                     </section>
                     <section>
@@ -279,81 +279,65 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#53 add `django` best practice examples</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">ZhaoQi99/pyencrypt-pye</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#57 大佬, 加密的速度可以快吗? </span>
+                                        <span class="issue">#111 [Security<svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#AAB8C2" d="M14 0C8.477 0 4 4.477 4 10v10h4V10a6 6 0 0 1 12 0v10h4V10c0-5.523-4.477-10-10-10Z"/><path fill="#FFAC33" d="M28 32a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V18a4 4 0 0 1 4-4h20a4 4 0 0 1 4 4v14Z"/><path fill="#C1694F" d="M35 9a9 9 0 0 0-9-9 9 9 0 0 0-9 9c0 3.917 2.507 7.24 6 8.477V33.5a2.5 2.5 0 0 0 4.95.49c.018.001.032.01.05.01a1 1 0 0 0 1-1v-1a1 1 0 0 0-1-1v-1a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1v-2.277A1.99 1.99 0 0 0 29 22v-4.523c3.493-1.236 6-4.559 6-8.477Zm-9-7a2 2 0 1 1-.001 4.001A2 2 0 0 1 26 2Z"/></svg>] Leak source code by hacking `marshal.loads` function</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by yao-big in <span class="repo">ZhaoQi99/pyencrypt-pye</span></div>
+                                    <div>opened by ZhaoQi99 in <span class="repo">Falldog/pyconcrete</span></div>
                                     <div class="comment">
-                                        <i>loader 这个文件可不可以我根据几个平台收集一下, 每次打包的时候直接替换完事呢? 大佬 早点休息哦 ,</i>
-                                        理论上感觉应该是可以的，不过我还没有测过(蹲一个后续)...记得用同一个
-                                        <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                            <path fill="#C1694F" d="M32.614 3.414C28.31-.89 21.332-.89 17.027 3.414c-3.391 3.392-4.098 8.439-2.144 12.535l-3.916 3.915c-.64.641-.841 1.543-.625 2.359l-1.973 1.972c-.479-.48-1.252-.48-1.731 0l-1.731 1.732c-.479.479-.479 1.253 0 1.732l-.867.864c-.479-.478-1.253-.478-1.731 0l-.866.867c-.479.479-.479 1.253 0 1.732.015.016.036.02.051.033-.794 1.189-.668 2.812.382 3.863 1.195 1.195 3.134 1.195 4.329 0L20.08 21.144c4.097 1.955 9.144 1.247 12.535-2.146 4.302-4.302 4.302-11.28-.001-15.584zm-1.731 5.195c-.957.956-2.509.956-3.464 0-.956-.956-.956-2.507 0-3.464.955-.956 2.507-.956 3.464 0 .956.957.956 2.508 0 3.464z"/>
-                                        </svg>
-                                        哈...
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#57 大佬, 加密的速度可以快吗? </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by yao-big in <span class="repo">ZhaoQi99/pyencrypt-pye</span></div>
-                                    <div class="comment">
-                                        <i>是不是每个平台的都不一样, 每个 python 的版本的都不一样呢?</i>
-                                        Yep
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#57 大佬, 加密的速度可以快吗? </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by yao-big in <span class="repo">ZhaoQi99/pyencrypt-pye</span></div>
-                                    <div class="comment">
-                                        <i>大佬 还有一个问题, 就是我在 mac m2 上面加密的代码. 能直接在 Ubuntu 里边用吗? 一个是 arm 一个 inter python 的版本都是 python3</i>
-                                        不行哦...python版本不同也不行....不过理论上加密后的代码文件可以共用,
-                                        <code>loader</code>
-                                        肯定是要重新生成的.
+                                        I've successfully reproduced in
+                                        <code>docker</code>
+                                        with
+                                        <code>Python 3.9</code>
+                                        . And I don't know what you're doing and saying.
+
+You should use
+                                        <code>decompyle3 rb2.pyc</code>
+                                        , but
+                                        <code>decompyle3 rb2.pye</code>
+                                        .
+The logic of issue is to hack
+                                        <code>marshal.loads</code>
+                                        function to generate the
+                                        <code>.pyc</code>
+                                        file
+of
+                                        <code>script.py</code>
+                                        . And then translates
+                                        <code>.pyc</code>
+                                        to Python source code using
+                                        <code>decompyle3</code>
+                                        .
+                                        <code>decompile3</code>
+                                        currently only supports
+                                        <code>Python 3.8</code>
+                                        and below, so you may need to change L106 to
+                                        <code>version == (3, 9)</code>
+                                        https://github.com/rocky/python-decompile3/blob/2118134478b5867ecf5ce193435ba49c7baf8b11/decompyle3/parsers/main.py#L105-L108
+                                        <i>
+                                            [!NOTE]
+                                            <br />
+                                            <code>decompyle3</code>
+                                            translates Python bytecode back into equivalent Python source code.
+                                        </i>
+                                        Python import: https://docs.python.org/3/library/importlib.html#importlib.machinery.SourcelessFileLoader
+                                        <b>Environment</b>
+                                        <code class="language-multiline language-shell" xml:space="preserve">~$ <span class="token function">docker</span> pull python:3.9
+~$ <span class="token function">docker</span> run <span class="token parameter variable">--name</span><span class="token operator">=</span>py39 <span class="token parameter variable">-d</span> python:3.9 <span class="token function">sleep</span> <span class="token number">3600000</span>
+<span class="token trimmed">(1 more line was trimmed)</span></code>
+                                        <b>Hack</b>
+                                        <code class="language-multiline language-shell" xml:space="preserve">root@cde87253aac7:/pyconcrete<span class="token comment"># pyconcrete-admin.py compile --source=script.py --pye</span>
+root@cde87253aac7:/pyconcrete<span class="token comment"># rm script.py</span>
+<span class="token trimmed">(18 more lines were trimmed)</span></code>
+                                        <i>
+                                            [!CAUTION]
+                                            <br />
+                                            Finally, Why don't you read the issue carefully? @6b3478
+                                        </i>
                                     </div>
                                 </div>
                             </section>
@@ -366,14 +350,101 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#57 大佬, 加密的速度可以快吗? </span>
+                                        <span class="issue">#111 [Security<svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#AAB8C2" d="M14 0C8.477 0 4 4.477 4 10v10h4V10a6 6 0 0 1 12 0v10h4V10c0-5.523-4.477-10-10-10Z"/><path fill="#FFAC33" d="M28 32a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V18a4 4 0 0 1 4-4h20a4 4 0 0 1 4 4v14Z"/><path fill="#C1694F" d="M35 9a9 9 0 0 0-9-9 9 9 0 0 0-9 9c0 3.917 2.507 7.24 6 8.477V33.5a2.5 2.5 0 0 0 4.95.49c.018.001.032.01.05.01a1 1 0 0 0 1-1v-1a1 1 0 0 0-1-1v-1a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1v-2.277A1.99 1.99 0 0 0 29 22v-4.523c3.493-1.236 6-4.559 6-8.477Zm-9-7a2 2 0 1 1-.001 4.001A2 2 0 0 1 26 2Z"/></svg>] Leak source code by hacking `marshal.loads` function</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by yao-big in <span class="repo">ZhaoQi99/pyencrypt-pye</span></div>
+                                    <div>opened by ZhaoQi99 in <span class="repo">Falldog/pyconcrete</span></div>
                                     <div class="comment">
-                                        <i>大佬可以了 牛逼, 就是第一次加载有点慢 其他的都牛逼, 非常感谢</i>
-                                        是的，这个AES解密感觉有点慢，有空我看看还能不能优化了...
+                                        You can get
+                                        <code>.pyc</code>
+                                        file using
+                                        <code>wrapper</code>
+                                        in
+                                        <code>hack.py</code>
+                                        . @6b3478
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#111 [Security<svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#AAB8C2" d="M14 0C8.477 0 4 4.477 4 10v10h4V10a6 6 0 0 1 12 0v10h4V10c0-5.523-4.477-10-10-10Z"/><path fill="#FFAC33" d="M28 32a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V18a4 4 0 0 1 4-4h20a4 4 0 0 1 4 4v14Z"/><path fill="#C1694F" d="M35 9a9 9 0 0 0-9-9 9 9 0 0 0-9 9c0 3.917 2.507 7.24 6 8.477V33.5a2.5 2.5 0 0 0 4.95.49c.018.001.032.01.05.01a1 1 0 0 0 1-1v-1a1 1 0 0 0-1-1v-1a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1v-2.277A1.99 1.99 0 0 0 29 22v-4.523c3.493-1.236 6-4.559 6-8.477Zm-9-7a2 2 0 1 1-.001 4.001A2 2 0 0 1 26 2Z"/></svg>] Leak source code by hacking `marshal.loads` function</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ZhaoQi99 in <span class="repo">Falldog/pyconcrete</span></div>
+                                    <div class="comment">
+                                        <i>looks like .pyc - pythoncompile, .pye - encrypted. maybe u need to install pyconcrete this way: PYCONCRETE_PASSPHRASE="$(dd if=/dev/urandom bs=1k count=1 | head -c10 | base64)" pip3.9 install pyconcrete pyconcrete-admin.py compile -s /usr/bin/rb2.py --pye --remove-py &amp;&amp; pyconcrete /usr/bin/rb2.pye --help</i>
+                                        I don't quite understand what you mean.
+What you say is
+                                        <code>pyconcrete</code>
+                                        's beat practice,is it related to hack?
+Have you successfully reproduced the logic of the hack?
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#111 [Security<svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#AAB8C2" d="M14 0C8.477 0 4 4.477 4 10v10h4V10a6 6 0 0 1 12 0v10h4V10c0-5.523-4.477-10-10-10Z"/><path fill="#FFAC33" d="M28 32a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V18a4 4 0 0 1 4-4h20a4 4 0 0 1 4 4v14Z"/><path fill="#C1694F" d="M35 9a9 9 0 0 0-9-9 9 9 0 0 0-9 9c0 3.917 2.507 7.24 6 8.477V33.5a2.5 2.5 0 0 0 4.95.49c.018.001.032.01.05.01a1 1 0 0 0 1-1v-1a1 1 0 0 0-1-1v-1a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1v-2.277A1.99 1.99 0 0 0 29 22v-4.523c3.493-1.236 6-4.559 6-8.477Zm-9-7a2 2 0 1 1-.001 4.001A2 2 0 0 1 26 2Z"/></svg>] Leak source code by hacking `marshal.loads` function</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ZhaoQi99 in <span class="repo">Falldog/pyconcrete</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            <code class="language-multiline" xml:space="preserve">&gt; decompyle3 rb2.pye 
+# file rb2.pye
+<span class="token trimmed">(1 more line was trimmed)</span></code>
+                                            <code class="language-multiline" xml:space="preserve"> python3 hack.py    
+Traceback (most recent call last):
+<span class="token trimmed">(3 more lines were trimmed)</span></code>
+                                        </i>
+                                        Why?
+                                        <code>decompyle3 rb2.pye</code>
+                                        ?
+It should be
+                                        <code>decompyle3 rb2.pyc</code>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#111 [Security<svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#AAB8C2" d="M14 0C8.477 0 4 4.477 4 10v10h4V10a6 6 0 0 1 12 0v10h4V10c0-5.523-4.477-10-10-10Z"/><path fill="#FFAC33" d="M28 32a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V18a4 4 0 0 1 4-4h20a4 4 0 0 1 4 4v14Z"/><path fill="#C1694F" d="M35 9a9 9 0 0 0-9-9 9 9 0 0 0-9 9c0 3.917 2.507 7.24 6 8.477V33.5a2.5 2.5 0 0 0 4.95.49c.018.001.032.01.05.01a1 1 0 0 0 1-1v-1a1 1 0 0 0-1-1v-1a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1v-2.277A1.99 1.99 0 0 0 29 22v-4.523c3.493-1.236 6-4.559 6-8.477Zm-9-7a2 2 0 1 1-.001 4.001A2 2 0 0 1 26 2Z"/></svg>] Leak source code by hacking `marshal.loads` function</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ZhaoQi99 in <span class="repo">Falldog/pyconcrete</span></div>
+                                    <div class="comment">
+                                        <i>3.12</i>
+                                        <code>imp</code>
+                                        module is remove in
+                                        <code>3.12</code>
+                                        .
+https://docs.python.org/3.12/whatsnew/3.12.html#whatsnew312-removed-imp
+                                        <code>pyconcrete</code>
+                                        mayn't work under `3.12.
+https://github.com/Falldog/pyconcrete/blob/0cc69150f96db5ce202be61b8e810b167fb030cc/src/pyconcrete/__init__.py#L55-L60
                                     </div>
                                 </div>
                             </section>
@@ -383,7 +454,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2024, 09:37:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 7 Dec 2024, 09:27:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
