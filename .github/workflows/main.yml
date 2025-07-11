@@ -83,7 +83,7 @@ jobs:
           repositories_forks: yes
 
       - name: Generate Github metrics (right)
-        uses: lowlighter/metrics@master
+        uses: yobson1/metrics@b99f7cd27980d0761a668ecc8f1c08f0fa57df15
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: none
