@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Software Developer Engineer
+role: DevOps Developer Engineer
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -29,9 +29,9 @@ bio: A salted 🐟 software engineer.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - DevOps
+  - Cybersecurity
+  - Web Development
 
 # Education to show in About widget
 education:
@@ -43,43 +43,57 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Language
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
+      - name: JavaScript
         description: ''
         percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
+        icon: javascript
+        icon_pack: custom
+      - name: golang
+        description: ''
+        percent: 30
+        icon: golang
+        icon_pack: custom
+      - name: C++
+        description: ''
+        percent: 20
+        icon: cplusplus
+        icon_pack: custom
+      - name: C#
+        description: ''
+        percent: 20
+        icon: csharp
+        icon_pack: custom
+      - name: java
+        description: ''
+        percent: 20
+        icon: java
+        icon_pack: custom
+  - name: Framework
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Django
         description: ''
         percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+        icon: django
+        icon_pack: custom
+      - name: Vue
         description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        percent: 60
+        icon: vuejs
+        icon_pack: custom
+      - name: Gin
         description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
-
+        percent: 20
+        icon: gin
+        icon_pack: custom
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -94,15 +108,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ZhaoQi99
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/zhaoqi99
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
-  #   label: Follow me on Twitter
-  #   display:
-  #     header: true
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
