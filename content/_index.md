@@ -28,7 +28,7 @@ sections:
       items:
         - title: DevOps Developer Engineer
           company: JD Technology
-          company_url: ''
+          company_url: 'https://www.jdcloud.com/'
           company_logo: org-jdt
           location: Beijing,China
           date_start: '2020-07-01'
@@ -38,20 +38,20 @@ sections:
               * AIOps platform
         - title: DevOps Developer Intern
           company: JD Technology
-          company_url: ''
+          company_url: 'https://www.jdcloud.com/'
           company_logo: org-jdt
           location: Beijing,China
           date_start: '2019-07-01'
           date_end: '2020-01-01'
           description: 'AIOps'
         - title: Backend Developer Intern
-          company: JD Technology
-          company_url: ''
-          company_logo: org-jdt
+          company: Chaitin Tech
+          company_url: 'https://www.chaitin.cn/'
+          company_logo: org-chaitin
           location: Beijing,China
           date_start: '2019-02-01'
           date_end: '2019-04-01'
-          description: 'X-Ray backend developer intern'
+          description: 'X-Ray'
     design:
       columns: '2'
   - block: accomplishments
@@ -130,7 +130,7 @@ sections:
         - icon: github
           icon_pack: fab
           name: Follow Me
-          link: 'https://github.com/zhaoqi99'
+          link: 'https://github.com/ZhaoQi99'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
