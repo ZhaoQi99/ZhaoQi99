@@ -7,21 +7,22 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: Skills
+    url: '#skills'
+    weight: 10
+  # - name: Publications
+  #   url: '#featured'
+  #   weight: 50
+  - name: Experience
+    url: '#experience'
     weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
+  - name: Blog
+    url: 'https://zhaqi99.github.io'
+    weight: 70
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
