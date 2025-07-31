@@ -127,5 +127,5 @@ social:
 highlight_name: true
 ---
 
-Hello! I am Qi Zhao.I earned my BSc in Computer Science and Technology from Shaanxi Normal University in 2020.
+Hello! I am Qi Zhao. I earned my BSc in Computer Science and Technology from Shaanxi Normal University in 2020.
 {style="text-align: justify;"}

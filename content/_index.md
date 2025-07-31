@@ -30,7 +30,7 @@ sections:
           company: JD Technology
           company_url: 'https://www.jdcloud.com/'
           company_logo: org-jdt
-          location: Beijing,China
+          location: Beijing, China
           date_start: '2020-07-01'
           date_end: ''
           description: |2-
@@ -40,7 +40,7 @@ sections:
           company: JD Technology
           company_url: 'https://www.jdcloud.com/'
           company_logo: org-jdt
-          location: Beijing,China
+          location: Beijing, China
           date_start: '2019-07-01'
           date_end: '2020-01-01'
           description: 'AIOps'
@@ -48,7 +48,7 @@ sections:
           company: Chaitin Tech
           company_url: 'https://www.chaitin.cn/'
           company_logo: org-chaitin
-          location: Beijing,China
+          location: Beijing, China
           date_start: '2019-02-01'
           date_end: '2019-04-01'
           description: 'X-Ray'
