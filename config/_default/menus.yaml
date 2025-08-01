@@ -23,7 +23,7 @@ main:
     url: '#contact'
     weight: 60
   - name: Blog
-    url: 'https://zhaqi99.github.io'
+    url: 'https://zhaoqi99.github.io'
     weight: 70
 
 
