@@ -34,8 +34,8 @@ sections:
           date_start: '2020-07-01'
           date_end: ''
           description: |2-
+              * [AIOps platform](https://aiops-themis.jd.com/)
               * PaaS management platform
-              * AIOps platform
         - title: DevOps Developer Intern
           company: JD Technology
           company_url: 'https://www.jdcloud.com/'
@@ -51,7 +51,7 @@ sections:
           location: Beijing, China
           date_start: '2019-02-01'
           date_end: '2019-04-01'
-          description: 'X-Ray'
+          description: '[X-Ray Vulnerability Scanner](https://www.chaitin.cn/en/xray)'
     design:
       columns: '2'
   - block: portfolio
@@ -96,6 +96,30 @@ sections:
     # design:
     #   columns: '2'
     #   view: citation
+  - block: markdown
+    content:
+      title: 🏅Awards
+      # subtitle: My subtitle
+      text: |2-
+        **Algorithm**
+          * Second Prize, China Collegiate Computing Contest-Group Programming Ladder Tournament, Xi'an, 2018.
+          * Bronze Medal, Xi'an station, Asia Regional, The 42nd International Collegiate Programming Contest(ACM-ICPC), 2017.
+  
+        **CTF**
+          * Top 10, JD CTF 2021, 2021.
+
+        **Scholarship**
+          * "双创之星", Shaanxi Normal University, 2019.
+          * The 3rd Class Scholarship, Shaanxi Normal University, 2018.
+          * Changtian Scholarship, School of Computer Science, Shaanxi Normal University, 2018.
+
+        **Others**
+          * Third Prize, Microsoft OneWeek Hackathon, XDU, 2019.
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
