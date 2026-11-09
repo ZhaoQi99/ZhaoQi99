@@ -34,7 +34,7 @@ sections:
           date_start: '2020-07-01'
           date_end: ''
           description: |2-
-              * [AIOps platform](https://aiops-themis.jd.com/)
+              * [AIOps platform](https://web.archive.org/web/20261109060948/https://aiops-themis.jd.com/)
               * PaaS management platform
         - title: DevOps Developer Intern
           company: JD Technology
